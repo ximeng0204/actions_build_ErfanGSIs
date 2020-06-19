@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.5.28/miui_VIOLET_20.5.28_c814552457_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/20.6.18/miui_CRUX_20.6.18_409440b6a7_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
