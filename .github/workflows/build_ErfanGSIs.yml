@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/8.12.20/miui_MI8_8.12.20_07a903425c_9.0.zip
-  ROM_NAME: MIUI for Android 9
+  ROM_URL: https://hugeota.d.miui.com/8.9.6/miui_MI8_8.9.6_2e668ca434_9.0.zip
+  ROM_NAME: MIUI for Android 9 AB
   TZ: Asia/Shanghai
 
 jobs:
