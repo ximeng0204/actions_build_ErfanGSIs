@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V9.6.12.0.OEDCNFD/miui_MIMAX3_V9.6.12.0.OEDCNFD_4f1d52403f_8.1.zip
-  ROM_NAME: MIUI for Android 10
+  ROM_URL: https://bigota.d.miui.com/8.12.20/miui_MI8_8.12.20_07a903425c_9.0.zip
+  ROM_NAME: MIUI for Android 9
   TZ: Asia/Shanghai
 
 jobs:
